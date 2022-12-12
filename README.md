@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  <a href="https://github.com/vulxdev/vulx">
-     <img src="https://i.imgur.com/LPivmd6.png">
+  <a href="https://github.com/PolisXY/Venom-Hub">
+     <img src="https://i.imgur.com/ccGF1tX.jpeg">
   </a>
 
   <h3 align="center">Venom Hub - Roblox Script</h3>
