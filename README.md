@@ -28,7 +28,7 @@ My Discord will have a dedicated channel for support and help, if you have any i
 # Acknowledgements
 
 * [Aqua](https://github.com/AquaPlaysYT) - Project Owner
-* 
+
 ---
 
 <h2 align="center">⚠️ THIS IS THE ONLY WAY TO GET THIS SCRIPT ⚠️</h2>
