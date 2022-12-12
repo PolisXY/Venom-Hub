@@ -6423,7 +6423,7 @@ local function KXIFRCK_fake_script() -- CloseButton.LocalScript
 	script.Parent.MouseButton1Click:Connect(function()
 
 
-		script.Parent.Parent.Parent.Parent:Destroy()
+		MainFrame:Destroy()
 
 
 	end)
