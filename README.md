@@ -21,13 +21,13 @@ I am going to open a discord server soon!
 
 # Getting Started
 
-Simply click [releases](https://github.com/vulxdev/Vulx/releases) and launch the most recent Venom version to get started. Venom Hub will be updated when games exhibit questionable behavior. In order to acquire the newest amazing features, be sure to check back!
+Simply click [releases](https://github.com/PolisXY/Venom-Hub) and launch the most recent Venom version to get started. Venom Hub will be updated when games exhibit questionable behavior. In order to acquire the newest amazing features, be sure to check back!
 
 My Discord will have a dedicated channel for support and help, if you have any issues or questions make sure to stay updated to join!
 
 # Acknowledgements
 
-* [Aqua](https://github.com/AquaPlaysYT) - Project Owner
+* [Aqua](https://github.com/PolisXY) - Project Owner
 
 ---
 
