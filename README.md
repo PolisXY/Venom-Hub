@@ -13,7 +13,7 @@
    </p>
 </div>
 
-# About The Project
+# About The Project - In Progress
 
 Venom Hub is specifically a roblox script and offers a fantastic way to exploit more than 15 games. Built using LUA and with no authentication needed. Venom Hub prioritizes the user experience while providing the best functionality. 😲
 
