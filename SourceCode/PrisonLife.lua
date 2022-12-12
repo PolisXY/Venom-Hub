@@ -188,7 +188,7 @@ local CloseButton = Instance.new("TextButton")
 Venom.Name = "Venom"
 
 
-Venom.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Venom.Parent = game:GetService("CoreGui")
 
 
 Venom.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
