@@ -1,18 +1,11 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-  [![Download][release-shield]][release-url]
-  [![Discord][discord-shield]][discord-url]
-
   <a href="https://github.com/vulxdev/vulx">
      <img src="https://i.imgur.com/LPivmd6.png">
   </a>
 
-  <h3 align="center">Vulx - Profile Editor</h3>
+  <h3 align="center">Venom Hub - Roblox Script</h3>
 
   <p align="center">
     An application made to enhance your Valorant experience!
