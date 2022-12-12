@@ -8,16 +8,9 @@
   <h3 align="center">Venom Hub - Roblox Script</h3>
 
   <p align="center">
-    An application made to enhance your Valorant experience!
+    Roblox scripthub for 15+ roblox games!
     <br />
    </p>
-   <h3>
-    <a href="https://github.com/vulxdev/Vulx/issues">Issues</a>
-    ·
-    <a href="https://discord.gg/gHWTGbqZ3y">Discord</a>
-    ·
-    <a href="https://youtube.com/aqua">YouTube</a>
-   </h3>
 </div>
 
 # About The Project
