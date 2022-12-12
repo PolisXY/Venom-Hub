@@ -149,7 +149,7 @@ local CloseButton = Instance.new("TextButton")
 Venom.Name = "Venom"
 
 
-Venom.Parent = game.Players.LocalPlayer:WaitForChild("CoreGui")
+Venom.Parent = game:GetService("CoreGui")
 
 
 Venom.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -1822,5 +1822,4 @@ end
 
 
 coroutine.wrap(WTIB_fake_script)()
-
 
