@@ -27,7 +27,7 @@ My Discord will have a dedicated channel for support and help, if you have any i
 
 # Acknowledgements
 
-* [Aqua](https://github.com/PolisXY) - Project Owner
+* [PolisXY](https://github.com/PolisXY) - Project Owner
 
 ---
 
